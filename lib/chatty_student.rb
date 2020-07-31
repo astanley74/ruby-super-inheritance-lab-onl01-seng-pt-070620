@@ -12,7 +12,7 @@ class ChattyStudent < Student
     end
   end
   
-    10.times do
-      super
-    end
+    # 10.times do
+    #   super
+    # end
 end
